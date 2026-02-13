@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "asthma",
+  "base_artist": "BELLRING少女ハート",
+  "createdAt": "2026-02-13T10:23:07.732132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Asthma Attack",
+      "artist": "The Fiery Furnaces",
+      "has_synced": false,
+      "path": "select/01_Asthma_Attack_The_Fiery_Furnaces.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Asthma",
+      "artist": "P.O.D.",
+      "has_synced": false,
+      "path": "select/02_Asthma_P.O.D..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asthma",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/03_Asthma_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A is for Asthma - Album Version - Digital Bonus Track",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/04_A_is_for_Asthma_-_Album_Version_-_Digital_Bonus_Track_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Asthma Attack",
+      "artist": "Confession",
+      "has_synced": true,
+      "path": "select/05_Asthma_Attack_Confession.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Asthma Attack (WAWA Remix)",
+      "artist": "Cocknbullkid",
+      "has_synced": false,
+      "path": "select/06_Asthma_Attack_(WAWA_Remix)_Cocknbullkid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Asthma Attack",
+      "artist": "Cocknbullkid",
+      "has_synced": false,
+      "path": "select/07_Asthma_Attack_Cocknbullkid.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Got Asthma",
+      "artist": "The Toy Dolls",
+      "has_synced": false,
+      "path": "select/08_I've_Got_Asthma_The_Toy_Dolls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Asthma Pump (feat. Flo Milli)",
+      "artist": "Tay Money",
+      "has_synced": true,
+      "path": "select/09_Asthma_Pump_(feat._Flo_Milli)_Tay_Money.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Asthma Attack (feat. Rich The Kid & Jay Critch)",
+      "artist": "Famous Dex feat. Jay Critch & Rich The Kid",
+      "has_synced": true,
+      "path": "select/10_Asthma_Attack_(feat._Rich_The_Kid_&_Jay_Critch)_Famous_Dex_feat._Jay_Critch_&_Rich_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Asthma Attack (feat. Rich The Kid & Jay Critch)",
+      "artist": "Famous Dex",
+      "has_synced": true,
+      "path": "select/11_Asthma_Attack_(feat._Rich_The_Kid_&_Jay_Critch)_Famous_Dex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Asthma (Album Version)",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/12_Asthma_(Album_Version)_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I've Got Asthma",
+      "artist": "The Toy Dolls",
+      "has_synced": true,
+      "path": "select/13_I've_Got_Asthma_The_Toy_Dolls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "asthma",
+      "artist": "BELLRING少女ハート",
+      "has_synced": false,
+      "path": "select/pl_01_asthma_BELLRING少女ハート.txt"
+    }
+  ]
+}
